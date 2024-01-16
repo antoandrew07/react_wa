@@ -2,7 +2,7 @@ import './App.css'
 function App() {
   const openWhatsAppChat = () => {
     // Replace '123456789' with the phone number or ID of the chat you want to open
-    const phoneNumber = '+918925200980';
+    const phoneNumber = '+919702440369';
     
     // Construct the WhatsApp deep link
     const whatsappLink = `https://wa.me/${phoneNumber}`;
